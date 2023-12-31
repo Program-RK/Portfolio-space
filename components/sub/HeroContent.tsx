@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[5px] h-5 w-5" />
           <h1 style={{ letterSpacing: "3px" }} className="Welcome-text">
-            Fullstack Developer
+            Fullstack Dev
           </h1>
         </motion.div>
 
