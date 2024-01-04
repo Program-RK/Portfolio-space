@@ -1,5 +1,5 @@
-My very own space-themed Portfolio that showcases some cool projects!
+My very own space-themed Portfolio that showcases some cool projects
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
 
-Project uses JavaScript, TypeScript, Framer Motion, Next.js, Tailwind CSS, CSS, and bootstrap.
+Project uses JavaScript, TypeScript, Framer Motion, Next.js, Tailwind CSS, CSS, and bootstrap
